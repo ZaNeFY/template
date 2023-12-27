@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    background-color: #97887b;
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+}
+
+
+.main_header{
+    color: white;
+}
+
+.icons {
+    display: flex;
+    gap: 0.5%   ;
+}
+
+.main_text{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    /* width: 20%; */
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* margin-left: 10%; */
+    /* padding: 45px; */
+}
+
+.header-img {
+    width: 300px;
+}
