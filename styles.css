@@ -38,3 +38,54 @@
 .header-img {
     width: 300px;
 }
+
+.round_image {
+    display: flex;
+    justify-content: center;
+    margin: 60px auto 0;
+}
+
+.round_image img{
+    border-radius: 50%;
+    width: 430px;
+    height: 430px;
+}
+
+.round_text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.round_text2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 3%;
+}
+
+.round_text i {
+    font-size: 1.25rem;
+    width: 770px;
+    line-height: 1.6;
+    margin: 30px auto 0;
+}
+
+.round_text2 p {
+    color: #999999;
+    font-size: 1.25rem;
+    width: 770px;
+    line-height: 1.6;
+}
+
+.arrows {
+    display: flex;
+    justify-content: center;
+}
+
+.third {
+    background: rgb(198,126,0);
+        background: linear-gradient(90deg, rgba(198,126,0,1) 0%, rgba(255,255,255,1) 86%);
+    width: 100%;
+    height: 800px;
+}
