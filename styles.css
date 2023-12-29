@@ -85,7 +85,7 @@
 
 .third {
     background: rgb(198,126,0);
-        background: linear-gradient(90deg, rgba(198,126,0,1) 0%, rgba(255,255,255,1) 86%);
+    background: linear-gradient(90deg, rgba(198,126,0,1) 0%, rgba(255,255,255,1) 86%);
     width: 100%;
     height: 800px;
 }
